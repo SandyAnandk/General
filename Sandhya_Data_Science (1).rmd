@@ -1,0 +1,146 @@
+---
+title: "Sandhya Anand Kumar MBA"
+output: html_document
+---
+
+
+[sandhyaphr7@gmail.com](mailto:sandhyaphr7@gmail.com)| [LinkedIn Profile](http://www.linkedin.com/in/sandyanand/)
+
+
+
+**Microsoft Certified Data Science professional** with Master&#39;s degree in Business Management, passionate in Data Science and Analytics including Machine Learning, Data Mining and Statistical Analysis.
+
+###**TECHNOLOGY SKILLS**###
+
+T-Sql. Python, R Programming, Azure  Machine Learning, Power BI,SAP HCM
+
+R Libraries: dplyr, ggplot2, corrplot, Hmisc, RcmdrMisc, VIM, caret, mice and random Forest
+
+###**EDUCATION**###
+
+**Master of Business Administration**** ICFAI University**, INDIA
+
+**Bachelor of Science** INDIA
+
+###**CERTIFICATIONS**###
+
+**MICROSOFT PROFESSIONAL PROGRAM IN DATA SCIENCE (Mar. 2017-Oct.2017)**
+
+**Microsoft Certification in Analyzing and Visualizing Data with Power BI**
+
+**Microsoft Certification in Programming with R for Data Science**
+
+**Microsoft Certification in Applied Machine Learning**
+
+**Microsoft Certification in Essential Statistics for Data Analysis using Excel**
+
+**Microsoft Certification in Querying with Transact-SQL**
+
+**Microsoft Certification in Data Science Orientation**
+
+**Microsoft Certification in Data Science essentials**
+
+**Microsoft Certification in Principles of Machine Learnings**
+
+**Microsoft Certification in Introduction to R for Data Science**
+
+**Algorithm and Data structure: KAL Academy**
+
+**PHR Certification-HRCI**
+
+**SHRM-CP Certification-SHRM**
+
+**SAP ERP Human Capital management** ECC 6.0 training, Cognizant Technologies Ltd. India
+
+###**SKILLS SUMMARY**###
+- Analyze complex data sets, data cleaning and data manipulation and transformation using R programming.  
+- Perform statistical analysis using Excel and R Programming.    
+- Visualizing data (Histogram, Density plots, Scatter plots, box plots) using Power BI dashboards, ggplot in R.  
+- Querying data using T-SQL.     
+- Identifying correlations and intercorrelations in R.  
+- Build predictive models (linear, logistical, Random forest, Boosted models) in R and Azure ML and Testing and evaluating models.  
+- Experience in Screening, Interviewing, Salary negotiation, extending employment offer, and other administrative components involved in full life cycle recruiting. 
+- Experiencing in configuring SAP HCM- Personnel administration and Organizational management.   
+
+
+###**PROJECTS**###
+
+####**House Sales Price PredictionCurrent **####   
+#### Kaggle.com  
+  This project focuses on predicting the sales price of the houses using Feature engineering, Random Forests, and gradient boosting. I am using R to explore, visualize and build the models. 
+
+
+####**Loan Repayment rate for the College students(Oct 2017)**####
+
+The goal of this capstone project is to predict the future earnings of the students, a set number of years after they initially enrolled in the college **.**
+
+- There were 298 features across 17,107 samples. Summary Statistics and exploratory analysis were used for understanding the features and their impact on output variable. Out of these 298 features, 198 were categorical features and 100 numerical features that were evaluated.
+- Feature selection was done to identify variables that are key for the model. Correlation and Inter correlation was used to filter out numerical features, and Chi-square test was used to identify key categorical features. Final feature set contained 11 independent variables.
+- Data exploration was done using ggplots (Bar plots, Line plots) and corrplot
+- Using the R programming language, various models were built (Linear, Random forest, Boosted Random forest). The model parameters were fine-tuned and model with least RMSE (Root Mean Square Error) was selected.
+
+
+
+###**PROFESSIONAL EXPERIENCE**###
+
+Resigned my recruiter job for a career in Data Analytics.
+
+**Interned and Worked as a Technical Recruiter in the following companies between May 2013 - Feb.-2017**
+
+### **Allyis, Inc | Kirkland WA, USAug 2015 - Feb.-2017 **###   
+####**Technical Recruiter**#### 
+- Identified potential candidates using candidate referrals, networking, internal database, LinkedIn, Dice, Monster and other web sourcing tools.  
+- Recruiting contract,contract-to-hire professionals from Jr. Level to senior level for Microsoft, Nordstrom and Savers  
+- Responsible for making initial contact with candidates including developing a relationship and establishing credibility, pitching job opportunities, and assessing candidates' personality and technical experience.Perform detailed reference checking and/or reference analysis on selected candidates and review results with hiring managers.   
+- Extended offers of employment to selected candidates within the guidelines of compensation policy.  
+- Managing the presentation, selection, offer, negotiation, closing, and administrative components involved in full life cycle recruiting.   
+- Recruiting: Jr. Software Engineers,Net Developers, UI developers, Front-end Developers, Software Test Engineers, Data Analyst, BI Developers, Buy desk Analysts, Marketing Data analysts, Business Analysts, Accounts PM, Java/Hadoop developers, Content Schedulers, etc  
+
+###**Horizon Consulting | Bothell WA, USOct 2014 - Jan 2015**###  
+####**Technical Recruiter**####  
+- Full cycle recruitment in the IT sector for both contract and permanent positions.   
+- Managing recruitment for Microsoft V- contract positions.    
+- I actively recruited for Cosmos Developers, SQL BI Developers and QA tester, Project Managers, and much more.   
+- Evaluate candidates based on the needs of the Hiring Manager to create a match between candidates and job openings.   
+- List job postings on a variety of channels including job boards, social media platforms (Monster, Dice, LinkedIn, Indeed, Smart Recruiters, LinkedIn Groups, etc.)   
+- Review qualifications of candidates applying through any of the above channels   
+- Call candidates and perform phone screens, invite candidates to the office for an in-person interview, submit candidates to the Vendor companies through the Business Development Manager.   
+- Schedule interviews with the candidates and provide timely feedback to candidates.   
+- Negotiate compensation packages with vendor companies, candidates and extend offers.   
+- Experience working on requirements with C2C, 1099, W2, Contract and Full time roles.   
+   
+
+###**MyNetwork May 2014 - Sep 2014**###  
+####**Intern Recruiter**#### 
+MyNetwork is a personal network management platform offering assistance to college students and professionals to navigate the world of professional networking.  
+  
+- Manage full cycle recruiting that encompasses sourcing, screening, hiring, and on boarding of both technical and nontechnical candidates.   
+- Identify the critical skills required for each vacancy along with key factors the hiring manager has identified.    
+- Employ the online job boards like LinkedIn, indeed.com and other resume databases to seek out and contact candidates.   
+- Manage Applicant Tracking System for all interviews and potential new hires, as well as prepare and process new hire documentation.   
+- Evaluate resumes and phone screens with potential candidates for the level of interest, qualification and compensation requirements and arrange interviews with hiring managers and senior management team.  Negotiate and extend offers to successful candidates and manage the on boarding process   
+- Communicate effectively regarding candidate inquiries, ensure strict timeline adherence, and collaborate with colleagues   
+   
+###**GigaWatt | USNov 2013 - May 2014  **###    
+####**Intern Recruiter & Coordinator **####    
+A successful online crowd funding platform that launches "blitz fundraising" campaigns in an effort to support students and college campus organizations.   
+
+- Directed a staff of six Talent Scouts, developed and implemented processes to uphold an effective recruiting strategy, and posted employment openings, conducted interviews, hired and on-boarded qualified individuals.    
+- Conceptualized and designed job descriptions for encompassing roles, evaluated and recommended feasible improvements, and partnered with other professionals to function cohesively in a productive work environment.    
+- Ensure optimal accuracy and completeness of documents and employee files and adhere to all laws and policies.    
+
+###**SAP HR Associate (Internship)   **###    
+####**Simbiz Software SolutionsMay 2012 - Aug 2012   Michigan, USA **####       
+- Our five-member project team was involved in successful customization and configuration of different SAP HR sub modules like Personnel Administration, Organization management, Payroll, Time management, Benefits, and Personnel development.   
+- My focus was on Personnel administration and Organizational management.   
+**Main job responsibilities: **  
+- Defined the enterprise structure, personnel structure, and pay scale structure.  
+- Defined Personnel data and payroll data for administrative and payroll perspective.  
+- Defined pay scale types, areas, group levels and salary ranges, setting up of the payroll period, defining 
+pay scale reclassification.   
+- Maintained Employee Data edited Info types, familiar with Fast Entry and Dynamic Actions.   
+- Defined the authorizations for Master data maintenance and Personnel number assignment for employees being hired.  
+- Configured employee subgroup grouping for the personnel calculation rule to allow one wage type to be processed in different ways in payroll accounting.   
+- Created and maintained the Organizational structure objects like the organizational unit, jobs, and  positions.   
+- Configured the Info groups for each of the objects like Organization Units, Jobs, and Positions, etc.   
+- Used feature PLOGI to integrate Organizational Management with Personnel Administration in order to automatically transfer data between modules. 
